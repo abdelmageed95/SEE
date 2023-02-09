@@ -1,5 +1,4 @@
 # Smart Environment Eye [SEE]
-####  *DeepBrain Team contribution in Smartathon challange*
 \
 ***Smart Environment Eye [SEE]** is an advanced AI-powered object detection system that can detect and classify visual pollutants in real-time. The system is equipped with state-of-the-art computer vision techniques to accurately detect and classify pollutants such as graffiti, garbage, sand on roads, potholes, cluttered sidewalks, bad billboards, etc...*
 
